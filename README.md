@@ -1,25 +1,24 @@
 # Théophile Sauffisseau
 
-Final-year engineering student at **Télécom SudParis** (IP Paris) and Data Analyst at **Air Liquide Healthcare**.
+Final-year engineering student at **Télécom SudParis** (IP Paris) and Data Analyst / Engineer at **Air Liquide Healthcare**.
 
-**Currently looking for a full-time position (CDI) as a Business Data Analyst, Data Solutions Engineer, or Product Data Analyst starting in October / November 2026.**
+**Currently looking for a full-time position (CDI) as a Data Engineer, Machine Learning Engineer, or Analytics Engineer starting in October / November 2026.**
 
 ## About Me
-I bridge the gap between data architecture and concrete business decisions. My focus is on turning complex, raw datasets into actionable insights through robust data modeling, advanced reporting (Power BI), and applied predictive analytics. 
+I specialize in data engineering, backend architecture, and deploying machine learning models into production. My focus is on designing scalable data pipelines (ETL/ELT), structuring cloud architectures, and building robust APIs to power data-driven applications.
 
-- **At Air Liquide Healthcare:** I collaborate with cross-functional teams to translate business requirements into data initiatives. I design interactive Power BI dashboards for commercial optimization, build data pipelines, and develop Python-based Machine Learning models (such as Churn Prediction) within AWS SageMaker Unified Studio to drive business intelligence strategies.
-- **Academic Highlights:** Graduated with a strong technical background and won 1st prize at the ESSI 2025 colloquium for an end-to-end data processing and classification project.
+- **At Air Liquide Healthcare:** I design and automate complex data integration pipelines into the enterprise Data Cloud. Using AWS SageMaker and Python, I structure the Core Data Model, orchestrate data transformations, and manage secure data provisioning to feed downstream analytical tools.
+- **Academic Highlights:** Graduated with a strong technical background in deep learning. Won 1st prize at the ESSI 2025 colloquium for developing an end-to-end PyTorch pipeline for complex signal classification (time series) in medical imaging.
 
 ## Technical Stack
-- **Data & Business Intelligence:** Power BI, Tableau, Advanced Reporting, KPI Tracking
-- **Data Engineering & Modeling:** SQL, ETL Pipelines, Data Architecture, PostgreSQL
-- **Languages & Analytics:** Python (Pandas, NumPy, Scikit-Learn), TypeScript
-- **Cloud & Environments:** AWS SageMaker Unified Studio, JupyterLab, Git
+- **Data Engineering & Ops:** Apache, Docker, dbt, SQL, AWS (SageMaker), CI/CD, MLOps
+- **Backend & Database:** Python, FastAPI, PostgreSQL, Alembic, SQLAlchemy, Next.js
+- **Machine Learning:** PyTorch, Scikit-Learn, CNNs, Vector Embeddings
 
-## 🎲 Projects & Interests
-- **Data & Web Analytics:** Architecting and deploying "Society," a full-stack, data-driven web application. I designed its relational database (PostgreSQL) and automated data flows to track user history and generate smart recommendations.
-- **Creative Arts:** Passionate about digital illustration, traditional art, and video editing.
-- **Sports:** Regular football player, fitness enthusiast, and long-distance runner.
+## Projects & Interests
+- **Full-Stack Architecture & AI ("Society"):** Architecting and deploying a data-driven web application. I designed the relational database and migrations (PostgreSQL, Alembic), developed the backend API (FastAPI), and integrated OpenAI vector embeddings to power a smart recommendation engine.
+- **Automated Data Pipelines:** Designed end-to-end workflows using Apache Airflow and Docker, integrating dbt for data transformation and scikit-learn algorithms for clustering tasks.
+- **Creative Arts & Sports:** Passionate about digital illustration (focused on tech storytelling), video editing, fitness, and long-distance running.
 
 ## Connect with me
 - [Email](mailto:theophile.sauffisseau@telecom-sudparis.eu)
